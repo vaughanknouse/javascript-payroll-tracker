@@ -32,7 +32,7 @@ The following image shows the web application's appearance:
 
 ## Link to Deployed Application
 
-***
+https://vaughanknouse.github.io/javascript-payroll-tracker/
 
 ## Credits
 Used the following sources as tutorials and guidelines:
