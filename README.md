@@ -2,7 +2,7 @@
 
 ## Description
 
-This week's challenge involves ***
+This week's challenge involves modifying starter code to create an application that enables a payroll manager to view and manage employee payroll data. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that we write. Additionally, the app will have a clean and polished, responsive user interface that adapts to multiple screen sizes. 
 
 ## User Story
 
@@ -28,18 +28,20 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ## Mock Up
 The following image shows the web application's appearance: ***
 
-![Shows depoyed web application with webpage heading and developer's photo.](assets/images/advanced-css-portfolio.png)
+![Shows deployed web application with webpage entitled Employee Payroll Tracker along with a table indicating the first names, last names, and salaries of the employees. Additionally, to the right of the deployed web application is the console with messages that are displayed when certain actions are implemented.](assets/images/advanced-css-portfolio.png)
 
 ## Link to Deployed Application
 
 ***
 
 ## Credits
-
 Used the following sources as tutorials and guidelines:
-***
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
 
-Also utilized the XPert Learning assistant for some portions of my code:
+
+Also utilized the Xpert Learning assistant for some portions of my code:
 https://bootcampspot.instructure.com/courses/5293/external_tools/313
-
-
