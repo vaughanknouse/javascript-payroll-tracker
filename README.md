@@ -26,9 +26,9 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ```
 
 ## Mock Up
-The following image shows the web application's appearance: ***
+The following image shows the web application's appearance:
 
-![Shows deployed web application with webpage entitled Employee Payroll Tracker along with a table indicating the first names, last names, and salaries of the employees. Additionally, to the right of the deployed web application is the console with messages that are displayed when certain actions are implemented.](assets/images/advanced-css-portfolio.png)
+![Shows deployed web application with webpage entitled Employee Payroll Tracker along with a table indicating the first names, last names, and salaries of the employees. Additionally, to the right of the deployed web application is the console with messages that are displayed when certain actions are implemented.](assets/images/Screenshot-payroll-tracker.png)
 
 ## Link to Deployed Application
 
@@ -37,9 +37,13 @@ The following image shows the web application's appearance: ***
 ## Credits
 Used the following sources as tutorials and guidelines:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
 https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+
 https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
 
 
